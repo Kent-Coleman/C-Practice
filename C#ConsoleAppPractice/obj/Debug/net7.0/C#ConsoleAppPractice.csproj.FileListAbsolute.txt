@@ -1,0 +1,14 @@
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/bin/Debug/net7.0/C#ConsoleAppPractice
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/bin/Debug/net7.0/C#ConsoleAppPractice.deps.json
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/bin/Debug/net7.0/C#ConsoleAppPractice.runtimeconfig.json
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/bin/Debug/net7.0/C#ConsoleAppPractice.dll
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/bin/Debug/net7.0/C#ConsoleAppPractice.pdb
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.AssemblyInfoInputs.cache
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.AssemblyInfo.cs
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.csproj.CoreCompileInputs.cache
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.dll
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/refint/C#ConsoleAppPractice.dll
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.pdb
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/C#ConsoleAppPractice.genruntimeconfig.cache
+/Users/oatmilk/Documents/Personal_Projects/C#ConsoleAppPractice/obj/Debug/net7.0/ref/C#ConsoleAppPractice.dll
